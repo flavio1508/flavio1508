@@ -1,13 +1,13 @@
 <div>
   <h1 align="center">Oi, eu sou o <a href=""><i> <strong> Flávio Augusto </strong> </i></a> 🐱‍💻  👨‍💻  ☕ ! </h1>
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=EnzoGabrielBarbosaFranco&label=Profile%20views&color=8250df&style=flat" alt="EnzoGabrielBarbosaFranco" /></p>
-  <p align="center"> <i> <strong> Vem com o Monstro </strong> </i> </p>
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=flavio1508&label=Profile%20views&color=8250df&style=flat" alt="flavio1508" /></p>
+  <p align="center"> <i> <strong> Pega o Pai </strong> </i> </p>
 </div>
 
 <div align="center">
   <a href="https://github.com/flavio1508">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EnzoGabrielBarbosaFranco&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGabrielBarbosaFranco&theme=radical&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=flavio1508&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavio1508&theme=radical&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -25,7 +25,7 @@
 
 <div align="center">
   <a href="https:https://www.instagram.com/flavioaugusto1508/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+   <a href="https://discord.gg/ZDRX2TkUeD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:flavioaugusto1508@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
@@ -39,7 +39,7 @@
 <br>
 
 ### 📈 GitHub Activity Graph:
-[![EnzoGabrielBarbosaFranco github activity graph](https://activity-graph.herokuapp.com/graph?username=EnzoGabrielBarbosaFranco&theme=react-dark)](https://github.com/EnzoGabrielBarbosaFranco/github-readme-activity-graph)
+[![flavio1508 github activity graph](https://activity-graph.herokuapp.com/graph?username=flavio1508&theme=react-dark)](https://github.com/flavio1508/github-readme-activity-graph)
 
 
 
@@ -52,7 +52,7 @@
 
 🎯 Github Analytics:
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=EnzoGabrielBarbosaFranco&no-bg=true&no-frame=true&theme=onedark&column=7" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=flavio1508&no-bg=true&no-frame=true&theme=onedark&column=7" />
 <!--    &rank=SSS,SS,S,AAA,AA,A,B,C -->
 </p>
 
