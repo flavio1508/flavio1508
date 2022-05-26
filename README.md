@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/EnzoGabrielBarbosaFranco">
+  <a href="https://github.com/flavio1508">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EnzoGabrielBarbosaFranco&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGabrielBarbosaFranco&theme=radical&hide_border=false&&layout=compact"/>
   </a>
@@ -24,11 +24,10 @@
 </div><br>
 
 <div align="center">
-  <a href="https://www.instagram.com/enzow._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://discord.gg/uaSQTPRveW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="file:///C:/Users/enzofranco/Projetos/Pix/pix.html" target="_blank"><img style="width: 80px; height: 28px;" src="pix3.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/enzo-gabriel-894273237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:enzoenzao31@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https:https://www.instagram.com/flavioaugusto1508/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:flavioaugusto1508@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <div align="center">
   
